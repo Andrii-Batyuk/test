@@ -1,2 +1,2 @@
-# test
-first repo
+#!/bin/bash
+echo "Hello, World!"
